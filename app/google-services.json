@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "935891020689",
+    "firebase_url": "https://kem-cho-c983a.firebaseio.com",
+    "project_id": "kem-cho-c983a",
+    "storage_bucket": "kem-cho-c983a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935891020689:android:28724992d87917a5de0830",
+        "android_client_info": {
+          "package_name": "com.kemcho.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935891020689-9f2fe75gepaed1frkcevuh6sfpgbf0oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemcho.vr",
+            "certificate_hash": "f9be4bdceac7768ac5c4d77db0eb1a981fc02aad"
+          }
+        },
+        {
+          "client_id": "935891020689-f62bgbro51kqb9g70toei17a8n4h8dgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemcho.vr",
+            "certificate_hash": "4dfd8bcd3d2d0957d024eb3eb0e6f1c94e28381b"
+          }
+        },
+        {
+          "client_id": "935891020689-pqh4cteenk0kvkam608hnhq42rj7ql3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemcho.vr",
+            "certificate_hash": "cf743cae0ed55e04c2d0591da58a18658b91a335"
+          }
+        },
+        {
+          "client_id": "935891020689-v2g5q1ulmv83dlcfa50mtmelsc3qombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWj8PDfnN8UxbDLLXnQNiIyf-JHQ-elo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935891020689-v2g5q1ulmv83dlcfa50mtmelsc3qombj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935891020689-p6jgu72tu2tf3l4vsssgve7g6jgqcafp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearlystudio.kemcho"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

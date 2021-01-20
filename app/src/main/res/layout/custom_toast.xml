@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools1"
+    android:layout_width="match_parent"
+    android:id="@+id/custom_toast_layout_id"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_white_corner_10"
+    android:backgroundTint="@color/light_gray"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingVertical="40dp">
+
+<!--    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="10dp"
+        android:src="@{status ? @drawable/send_success : @drawable/send_fail}" />-->
+
+    <TextView
+        android:id="@+id/tv_toast_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        tools:text="Coins sent to the creator\nsuccessfully !" />
+
+
+</LinearLayout>
